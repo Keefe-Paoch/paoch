@@ -99,40 +99,59 @@ This Privacy Policy is governed by the laws of Singapore. We strive to handle yo
 8. Aggregated and anonymised data
 
 Aggregated or anonymised data that does not include any personally identifiable information, may be used by us, our Partners, our Paoch Group members or other third parties for various purposes, including enabling them to better understand customer needs or to improve and adapt their operations, products and services, or for the purposes of industry benchmarking, machine learning, research or analytics.
+
 9. Direct Marketing
+
 If you have opted to receive offers and promotions from us, we may use your personal data to:
 send you direct marketing communications in connection with the latest news, events, updates, offers, contests, promotions, products, services and Rewards offered by our Partners in relation to Paoch;
 analyse your preferences, online behaviour and transactional history in order to gain insights, so that we can customise the content and types of news, events, updates, contests, promotions, offers, products, services and Rewards that we present to you via our App, our direct marketing communications, social media or other communication means; and
 in conjunction with any seasonal events, lucky draws and contests or other promotional activities.
 We may send you direct marketing communications and market research invitations by email or in-app notifications on your mobile device, when you access the App, or through online banner advertisements.
 Before providing you with direct marketing communications, we will always ask for your consent. You can choose at any time not to receive any direct marketing communications from us. Please see the section on Your rights below.
+
 10. Can our Partners or affiliates send you marketing materials?
+
 We will not provide your personal data to our Partners for them to send you marketing materials, unless you allow this. 
 If any of our Partners wish to directly send you any marketing materials regarding their own products and services directly, then they must obtain your separate consent for this.  We are not involved or responsible for any marketing materials sent directly by our Partners. If you would like to stop receiving any marketing materials from our Partners, please contact them directly in order to unsubscribe from their mailing lists.
 However, we may send Marketing Communications to you on behalf of our Partners, subject to your consent and in accordance with the Direct Marketing section above. If you agree to receive any marketing materials directly from our Partners, then please carefully read our respective Partners' privacy policies.
 
 11. How do we keep your information secure?
+
 We take the confidentiality and security of your information seriously. We take all reasonable steps, including the implementation of technical and physical security measures, to ensure that all your personal data held by us is kept secure and safe from any loss or unauthorised disclosure, use and modification. All transactions under the terms and conditions of this Privacy Policy are based on the encryption of data exchanged between you and us on our secure App. 
+
 12. How long do we keep your data for?
+
 We will keep your personal data only for so long as is necessary to fulfil the purposes outlined in this Privacy Policy, unless required for other legal or business purposes. Once we no longer need your personal data, we will either irreversibly anonymise or securely delete it on our servers.
+
 13. Your rights
+
 (a) Access and correction
 You have the right to access and correct your personal data held by us, at any time, by editing your information within the App. 
 In order to ensure that your personal data is kept as accurate as possible, please update any changes to your personal data.
+
 (b) Opt-out of direct marketing
 At any time, you can ask us to stop using your personal data to send you direct Marketing Communications, or you can customise how you would like to receive direct Marketing Communications from us. You can exercise your rights to do this by:
 changing your settings on your notification preferences on the App; or
 following the unsubscribe instructions in the Marketing Communications emails that we send to you.
 We will stop using your personal data to send you Marketing Communications in accordance with your request. However, we may still send you non-promotional communications such as information concerning the administration of your Paoch Account and may use non-personally identifiable information collected via cookies and other tracking technology to display marketing information via online advertising banners on websites and apps visited by you.
+
 14. Online tracking technology
+
 Cookies are small text files that are stored on your browser or device by websites, applications, online media and advertisements when you visit a website.
 
 We use cookies and other similar identification technologies such as web beacons and pixel tags on our App, Website, emails and online advertisements for various purposes, including verifying users; remembering user preferences and settings to enhance your experience when you return to our App or website; delivering relevant content and advertisements based on your preferences, location and usage patterns; monitoring, evaluating and optimising the operation of our App or Website; tracking and measuring the effectiveness of our advertising campaigns; and analysing traffic on our App or Website and the websites of our Partners.
+
 You can exercise your right to choose whether or not to accept cookies by adjusting your browser settings to modify your cookie preferences. Most browsers are set to accept cookies by default, but you are free to remove or block all browser cookies. However, if you turn off your cookies, some of our services may not function properly and you will not be able to receive the most efficient and personalised experience.
+
 15. Links to other sites
+
 Our App may contain links to other third-party websites and applications, including those of our Partners (“Third Party Sites”). We do not own or control and are not responsible for the privacy practices of those Third-Party Sites. We encourage you to remain alert if you follow any links to leave our Site or App, and to review the privacy policies of these Third-Party Sites so that you are aware of how your personal data may be collected and used by such third parties.
+
 16. How do we manage updates to this policy?
+
 From time to time, we may update this Privacy Policy to reflect new technologies, regulatory requirements or any other changes that may be necessary. We will notify you of any updates in accordance with your preference settings and, where required by law, obtain your consent. We will inform you by emailing you at the email address you provided us, and/or by posting a notice of these changes on our App. 
+
 17. How to contact us
+
 If you have any questions or comments concerning this Privacy Policy, you can contact our Data Protection Officer at contactus@paoch.io
 
