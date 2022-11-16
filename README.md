@@ -8,9 +8,9 @@ If you access or use the Paoch mobile application ("App") and/or the Website (as
 
 
 2. Who are we?
-
+    
 Paoch is a membership platform ("Paoch") that enables members to purchase membership from our partners in return for products, discounts, services, discounts, gifts or vouchers (“Rewards”) from participating businesses that are Paoch Partners (“Partners”). Paoch is owned and operated by Paoch Pte. Ltd. (“Paoch”, "we", "us", “our”).  Personal data we collect about you will be used in line with this Privacy Policy. 
-
+    
 3. How do we collect data?
 
 Your personal data will either be provided by you, or will be collected by us, our Partners, or captured automatically. For example, we collect your personal data when you create your Paoch account (as defined in our Terms and Conditions) application, when you transact with our Partners and accumulate Rewards on your Membership account ("Paoch Account" or “Account”), when you redeem a Reward, when you contact us or when you browse our Website and/or App. 
