@@ -1,20 +1,20 @@
 # Privacy Policy
 
 1. We care about your personal data 
-
+```
 We care about protecting and respecting your personal data.  In order to serve you better and provide you with the best customer experience, we need to collect some personal data about you.  This Privacy Policy will help you understand how we collect and use your personal data, who we disclose your personal data to, and how you can control the way your personal data is collected, used and disclosed by us.
 
 If you access or use the Paoch mobile application ("App") and/or the Website (as defined in our Terms and Conditions), then you shall be deemed to consent to the collection, use and disclosure of your personal data in accordance with this Privacy Policy. If you do not agree to this Privacy Policy, please stop using our Website and App, and do not apply for a Paoch Account (as defined in our Terms and Conditions). 
-
+```
 
 2. Who are we?
-    
+ ```   
 Paoch is a membership platform ("Paoch") that enables members to purchase membership from our partners in return for products, discounts, services, discounts, gifts or vouchers (“Rewards”) from participating businesses that are Paoch Partners (“Partners”). Paoch is owned and operated by Paoch Pte. Ltd. (“Paoch”, "we", "us", “our”).  Personal data we collect about you will be used in line with this Privacy Policy. 
-    
+ ```   
 3. How do we collect data?
-
+```
 Your personal data will either be provided by you, or will be collected by us, our Partners, or captured automatically. For example, we collect your personal data when you create your Paoch account (as defined in our Terms and Conditions) application, when you transact with our Partners and accumulate Rewards on your Membership account ("Paoch Account" or “Account”), when you redeem a Reward, when you contact us or when you browse our Website and/or App. 
-
+```
 4. Are you over 18?
 
 Our App and Paoch are only intended for people over the age of 18. However, if you are under the age of 18, you may only use our App, or apply for a Membership if this has been authorised by your parent or legal guardian and you have obtained their consent to use our App and become a Paoch Member, on the basis of this Privacy Policy. 
